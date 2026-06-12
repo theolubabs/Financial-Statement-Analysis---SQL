@@ -1,4 +1,5 @@
 # Financial-Statement-Analysis-SQL
+An end to end SQL project that transforms 493 rows of unstructured bank transaction data from PDF into a structured MySQL database delivering financial insights on inflow, outflow, and spending trends.
 
 ## Introduction
 This project focuses on analyzing my client’s bank transactions to uncover spending patterns, income sources, and overall financial health. Using SQL for exploratory analysis, I transformed raw transaction data into actionable insights, The project is a realworld project that contains client bank credit transactions includes key variables such as Date, Money_In, Money_Out, Category, To_From, Discription and Balance
